@@ -8,10 +8,10 @@
 
 Team members:
 
-1) Vikhyath Reddy Marapadaga (vmarapa).
-2) Charan Chaudary Lekkalapudi (clekkal).
-3) Vinay K. Patnana (vkpatnan).
-4) Ravi Teja Manda (vrmanda).
+1) Vikhyath Reddy Marapadaga.
+2) Charan Chaudary Lekkalapudi.
+3) Vinay K. Patnana.
+4) Ravi Teja Manda.
 
 
 About the CSC 591 project:
